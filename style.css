@@ -343,8 +343,8 @@ img {
     bottom: 0px;
     height: 48px;
     width: 120px;
-    background: #FFFFFF;
+    background: white;
     border: 1px solid #CFD8DC;
     border-radius: 8px;
     color: #6070FF;
-}
+} 
